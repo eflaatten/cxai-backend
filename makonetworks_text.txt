@@ -1,0 +1,2404 @@
+Press Alt+1 for screen-reader mode, Alt+0 to cancelAccessibility Screen-Reader Guide, Feedback, and Issue Reporting | New windowCary Oil Streamlines Petroleum Site Connectivity With Mako Networks  →  DOWNLOAD THE CASE STUDY
+
+	
+
+	
+		
+
+
+
+
+	
+	
+	
+
+		
+		
+		
+			
+			
+				
+				
+										
+						
+						
+														
+						
+						
+										
+					
+					
+							
+								
+.gm-navigation-drawer--mobile .gm-dropdown-menu .gm-anchor {
+    display: none;
+}
+
+.gm-toolbar-bg{
+	background-color: rgba(0,0,0,0.3)
+}
+.gm-navbar-sticky-toggle .gm-toolbar-bg{
+	background-color: rgba(50,50,52,1)
+}
+	
+		
+				
+					
+				
+				
+						
+						Search
+					Mako CMS Login
+Support
+			The Mako System
+
+The Mako System
+	
+		
+			The Mako System
+
+The Mako System is a PCI-certified, cloud-managed, carrier-independent networking solution that makes it easy to connect and manage thousands of global sites in a high-performance business network that is secure, reliable, scalable and cost-effective. It consists of two parts: the Mako CMS management application and a range of managed Mako devices.
+
+		
+	
+Learn More
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568c708f9 .ins-button:hover {background-color: #cccccc;}#ins-button-6874568c708f9 .ins-button:hover {border-color: #cccccc;}#ins-button-6874568c708f9.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+	
+		
+		
+			
+		
+	
+
+	
+		
+			The Mako CMS
+Cloud-based network management and monitoring.
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Features
+The Mako System’s most important features and technology.
+
+		
+	
+
+	
+		
+			> PCI DSS
+> SASE
+> SD-WAN
+> Cloud Management
+> Enterprise Templates
+> Large Deployments
+> Next-Gen Firewall
+> VoIP
+> SmartATG
+
+
+		
+	
+
+	
+		
+			> High Availability
+> Advanced Diagnostics
+> Usage Reporting
+> Status Alerts
+> Cloud VPNs
+> Remote Access
+> Cellular Failover
+> Wi-Fi
+> Periscope
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Mako Voice
+Deliver the most value for your dollar in the VoIP services market.
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Mako Devices
+PCI DSS certified and fully cloud managed.
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Security Gateways
+Secure, reliable, fast and flexible.
+> Compare Models
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			VPN Concentrators
+Connect thousands of sites securely with top performance.
+> Compare Models
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Access Points
+Secure, cloud-managed wireless connectivity.
+> Compare Models
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Managed Switches
+Extend your network securely.
+> Compare Models
+
+		
+	
+
+
+
+Industries
+
+Industries
+	
+		
+			Industries
+
+Designed to address the specific challenges of distributed enterprises and retail enterprises, the Mako System is a dynamic solution that can handle the requirements of businesses in any industry or market.
+
+		
+	
+Learn More
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568c78826 .ins-button:hover {background-color: #cccccc;}#ins-button-6874568c78826 .ins-button:hover {border-color: #cccccc;}#ins-button-6874568c78826.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Petroleum
+Update your network with the industry’s most reliable brand- and POS-approved solution.
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Retail
+Address the unique network challenges of distributed retail with Mako.
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Quick Service Restaurants
+Join a growing network of industry leaders optimizing performance, security, and scalability with Mako.
+
+		
+	
+
+
+
+Resources
+News and Events
+
+News
+	
+		
+			News
+
+Follow our latest news and press releases.
+
+		
+	
+Read More
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568c7c865 .ins-button:hover {background-color: #cccccc;}#ins-button-6874568c7c865 .ins-button:hover {border-color: #cccccc;}#ins-button-6874568c7c865.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+	
+		
+			Events
+We are attending these shows this year.
+
+		
+	
+Visit Us Here
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568c7c966 .ins-button:hover {background-color: #cccccc;}#ins-button-6874568c7c966 .ins-button:hover {border-color: #cccccc;}#ins-button-6874568c7c966.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+	
+		
+			Latest Articles
+
+		
+	
+      20 March 2025 TXB Partners with Mako Networks to Power Convenience Store Expansion  by Ben Kubasak in News   Mako Networks Provides Scalable, Secure Network Infrastructure to Drive Growth and Operational Excellence CHICAGO – March 20, 2025 – TXB [...]   Continue Reading     06 February 2025 Mako Networks Taps Petro Tech Leader Jon Kelly as CRO  by Mariana Lezama in Blog, News   Go-to-Market Expert to Grow Mako’s Market Leadership in Secure Networking Solutions for Distributed Enterprises in Petro & Beyond CHICAGO – [...]   Continue Reading       
+
+
+Partners
+
+Partners
+	
+		
+			Partners
+
+Mako Networks is proud to cultivate relationships with a growing number of like-minded business partners. Our partners in each program work with us toward mutually beneficial outcomes for our shared customers.
+
+		
+	
+Learn More
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568c8701c .ins-button:hover {background-color: #cccccc;}#ins-button-6874568c8701c .ins-button:hover {border-color: #cccccc;}#ins-button-6874568c8701c.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Mako Resellers
+Mako Networks works with leading companies around the world to deploy the Mako System to end customers.
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Mako Agents
+Mako Networks has representatives in diverse markets working to identify new opportunities for the Mako System.
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Mako VPN Cloud Partners
+Mako VPN Cloud technology makes partner services easily available to current and prospective customers.
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Mako Technology Partners
+Build your technology solutions on the Mako platform to deliver enhanced services securely and reliably at scale.
+
+		
+	
+
+
+
+Contact
+
+										
+										Search				Mako CMS Login
+Support
+
+				
+			
+		
+		
+				.
+The Mako System
+
+	the mako system-mobile
+	
+		
+			The Mako System
+
+The Mako System is a PCI-certified, cloud-managed, carrier-independent networking solution that makes it easy to connect and manage thousands of global sites in a high-performance business network that is secure, reliable, scalable and cost-effective. It consists of two parts: the Mako CMS management application and a range of managed Mako devices.
+
+		
+	
+Learn More
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568c8d8ab .ins-button:hover {background-color: #cccccc;}#ins-button-6874568c8d8ab .ins-button:hover {border-color: #cccccc;}#ins-button-6874568c8d8ab.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			The Mako CMS
+Cloud-based network management and monitoring.
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Features
+The Mako System’s most important features and technology.
+
+		
+	
+
+	
+		
+			> PCI DSS
+> SD-WAN
+> SASE
+> Cloud Management
+> Enterprise Templates
+> Large Deployments
+> Next-Gen Firewall
+> High Availability
+> Advanced Diagnostics
+> Usage Reporting
+> Status Alerts
+> Cloud VPNs
+> Remote Access
+> Cellular Failover
+> Wi-Fi
+> VoIP
+> SmartATG
+> Periscope
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Mako Voice
+Deliver the most value for your dollar in the VoIP services market.
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Mako Devices
+PCI DSS certified and fully cloud managed.
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Security Gateways
+Secure, reliable, fast and flexible.
+> Compare Models
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			VPN Concentrators
+Connect thousands of sites securely with top performance.
+> Compare Models
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Access Points
+Secure, cloud-managed wireless connectivity.
+> Compare Models
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Managed Switches
+Extend your network securely.
+> Compare Models
+
+		
+	
+
+
+
+
+Industries
+
+	Industries-mobile
+	
+		
+			Industries
+
+Designed to address the specific challenges of distributed enterprises and retail enterprises, the Mako System is a dynamic solution that can handle the requirements of businesses in any industry or market.
+
+		
+	
+Learn More
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568c90901 .ins-button:hover {background-color: #cccccc;}#ins-button-6874568c90901 .ins-button:hover {border-color: #cccccc;}#ins-button-6874568c90901.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Petroleum
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Quick Service Restaurants
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Retail
+
+		
+	
+
+
+
+
+Resources
+News
+Events
+Partners
+
+	Partners-mobile
+	
+		
+			Partners
+
+Mako Networks is proud to cultivate relationships with a growing number of like-minded business partners. Our partners in each program work with us toward mutually beneficial outcomes for our shared customers.
+
+		
+	
+Learn More
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568c9261c .ins-button:hover {background-color: #cccccc;}#ins-button-6874568c9261c .ins-button:hover {border-color: #cccccc;}#ins-button-6874568c9261c.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Mako Resellers
+Mako Networks works with leading companies around the world to deploy the Mako System to end customers.
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Mako Agents
+Mako Networks has representatives in diverse markets working to identify new opportunities for the Mako System.
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Mako VPN Cloud Partners
+Mako VPN Cloud technology makes partner services easily available to current and prospective customers.
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Mako Technology Partners
+Build your technology solutions on the Mako platform to deliver enhanced services securely and reliably at scale.
+
+		
+	
+
+
+
+
+Contact
+MAKO CMS LOGIN
+SUPPORT
+							
+						
+														
+					
+				
+			
+		
+	
+	
+	
+		
+			
+.gm-navigation-drawer--mobile .gm-dropdown-menu .gm-anchor {
+    display: none;
+}
+
+.gm-toolbar-bg{
+	background-color: rgba(0,0,0,0.3)
+}
+.gm-navbar-sticky-toggle .gm-toolbar-bg{
+	background-color: rgba(50,50,52,1)
+}
+	
+		
+				
+					
+				
+				
+						
+						Search
+					Mako CMS Login
+Support
+			The Mako System
+
+The Mako System
+	
+		
+			The Mako System
+
+The Mako System is a PCI-certified, cloud-managed, carrier-independent networking solution that makes it easy to connect and manage thousands of global sites in a high-performance business network that is secure, reliable, scalable and cost-effective. It consists of two parts: the Mako CMS management application and a range of managed Mako devices.
+
+		
+	
+Learn More
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568c708f9 .ins-button:hover {background-color: #cccccc;}#ins-button-6874568c708f9 .ins-button:hover {border-color: #cccccc;}#ins-button-6874568c708f9.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+	
+		
+		
+			
+		
+	
+
+	
+		
+			The Mako CMS
+Cloud-based network management and monitoring.
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Features
+The Mako System’s most important features and technology.
+
+		
+	
+
+	
+		
+			> PCI DSS
+> SASE
+> SD-WAN
+> Cloud Management
+> Enterprise Templates
+> Large Deployments
+> Next-Gen Firewall
+> VoIP
+> SmartATG
+
+
+		
+	
+
+	
+		
+			> High Availability
+> Advanced Diagnostics
+> Usage Reporting
+> Status Alerts
+> Cloud VPNs
+> Remote Access
+> Cellular Failover
+> Wi-Fi
+> Periscope
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Mako Voice
+Deliver the most value for your dollar in the VoIP services market.
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Mako Devices
+PCI DSS certified and fully cloud managed.
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Security Gateways
+Secure, reliable, fast and flexible.
+> Compare Models
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			VPN Concentrators
+Connect thousands of sites securely with top performance.
+> Compare Models
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Access Points
+Secure, cloud-managed wireless connectivity.
+> Compare Models
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Managed Switches
+Extend your network securely.
+> Compare Models
+
+		
+	
+
+
+
+Industries
+
+Industries
+	
+		
+			Industries
+
+Designed to address the specific challenges of distributed enterprises and retail enterprises, the Mako System is a dynamic solution that can handle the requirements of businesses in any industry or market.
+
+		
+	
+Learn More
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568c78826 .ins-button:hover {background-color: #cccccc;}#ins-button-6874568c78826 .ins-button:hover {border-color: #cccccc;}#ins-button-6874568c78826.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Petroleum
+Update your network with the industry’s most reliable brand- and POS-approved solution.
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Retail
+Address the unique network challenges of distributed retail with Mako.
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Quick Service Restaurants
+Join a growing network of industry leaders optimizing performance, security, and scalability with Mako.
+
+		
+	
+
+
+
+Resources
+News and Events
+
+News
+	
+		
+			News
+
+Follow our latest news and press releases.
+
+		
+	
+Read More
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568c7c865 .ins-button:hover {background-color: #cccccc;}#ins-button-6874568c7c865 .ins-button:hover {border-color: #cccccc;}#ins-button-6874568c7c865.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+	
+		
+			Events
+We are attending these shows this year.
+
+		
+	
+Visit Us Here
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568c7c966 .ins-button:hover {background-color: #cccccc;}#ins-button-6874568c7c966 .ins-button:hover {border-color: #cccccc;}#ins-button-6874568c7c966.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+	
+		
+			Latest Articles
+
+		
+	
+      20 March 2025 TXB Partners with Mako Networks to Power Convenience Store Expansion  by Ben Kubasak in News   Mako Networks Provides Scalable, Secure Network Infrastructure to Drive Growth and Operational Excellence CHICAGO – March 20, 2025 – TXB [...]   Continue Reading     06 February 2025 Mako Networks Taps Petro Tech Leader Jon Kelly as CRO  by Mariana Lezama in Blog, News   Go-to-Market Expert to Grow Mako’s Market Leadership in Secure Networking Solutions for Distributed Enterprises in Petro & Beyond CHICAGO – [...]   Continue Reading       
+
+
+Partners
+
+Partners
+	
+		
+			Partners
+
+Mako Networks is proud to cultivate relationships with a growing number of like-minded business partners. Our partners in each program work with us toward mutually beneficial outcomes for our shared customers.
+
+		
+	
+Learn More
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568c8701c .ins-button:hover {background-color: #cccccc;}#ins-button-6874568c8701c .ins-button:hover {border-color: #cccccc;}#ins-button-6874568c8701c.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Mako Resellers
+Mako Networks works with leading companies around the world to deploy the Mako System to end customers.
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Mako Agents
+Mako Networks has representatives in diverse markets working to identify new opportunities for the Mako System.
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Mako VPN Cloud Partners
+Mako VPN Cloud technology makes partner services easily available to current and prospective customers.
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			Mako Technology Partners
+Build your technology solutions on the Mako platform to deliver enhanced services securely and reliably at scale.
+
+		
+	
+
+
+
+Contact
+
+										
+										Search
+										
+    
+
+
+										START TYPING AND PRESS ENTER TO SEARCH														
+													
+														
+														
+														
+															
+														
+													
+																			
+										
+													Mako CMS Login
+Support
+
+				
+			
+		
+		
+				.
+The Mako System
+
+	the mako system-mobile
+	
+		
+			The Mako System
+
+The Mako System is a PCI-certified, cloud-managed, carrier-independent networking solution that makes it easy to connect and manage thousands of global sites in a high-performance business network that is secure, reliable, scalable and cost-effective. It consists of two parts: the Mako CMS management application and a range of managed Mako devices.
+
+		
+	
+Learn More
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568c8d8ab .ins-button:hover {background-color: #cccccc;}#ins-button-6874568c8d8ab .ins-button:hover {border-color: #cccccc;}#ins-button-6874568c8d8ab.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			The Mako CMS
+Cloud-based network management and monitoring.
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Features
+The Mako System’s most important features and technology.
+
+		
+	
+
+	
+		
+			> PCI DSS
+> SD-WAN
+> SASE
+> Cloud Management
+> Enterprise Templates
+> Large Deployments
+> Next-Gen Firewall
+> High Availability
+> Advanced Diagnostics
+> Usage Reporting
+> Status Alerts
+> Cloud VPNs
+> Remote Access
+> Cellular Failover
+> Wi-Fi
+> VoIP
+> SmartATG
+> Periscope
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Mako Voice
+Deliver the most value for your dollar in the VoIP services market.
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Mako Devices
+PCI DSS certified and fully cloud managed.
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Security Gateways
+Secure, reliable, fast and flexible.
+> Compare Models
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			VPN Concentrators
+Connect thousands of sites securely with top performance.
+> Compare Models
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Access Points
+Secure, cloud-managed wireless connectivity.
+> Compare Models
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Managed Switches
+Extend your network securely.
+> Compare Models
+
+		
+	
+
+
+
+
+Industries
+
+	Industries-mobile
+	
+		
+			Industries
+
+Designed to address the specific challenges of distributed enterprises and retail enterprises, the Mako System is a dynamic solution that can handle the requirements of businesses in any industry or market.
+
+		
+	
+Learn More
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568c90901 .ins-button:hover {background-color: #cccccc;}#ins-button-6874568c90901 .ins-button:hover {border-color: #cccccc;}#ins-button-6874568c90901.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Petroleum
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Quick Service Restaurants
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Retail
+
+		
+	
+
+
+
+
+Resources
+News
+Events
+Partners
+
+	Partners-mobile
+	
+		
+			Partners
+
+Mako Networks is proud to cultivate relationships with a growing number of like-minded business partners. Our partners in each program work with us toward mutually beneficial outcomes for our shared customers.
+
+		
+	
+Learn More
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568c9261c .ins-button:hover {background-color: #cccccc;}#ins-button-6874568c9261c .ins-button:hover {border-color: #cccccc;}#ins-button-6874568c9261c.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Mako Resellers
+Mako Networks works with leading companies around the world to deploy the Mako System to end customers.
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Mako Agents
+Mako Networks has representatives in diverse markets working to identify new opportunities for the Mako System.
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Mako VPN Cloud Partners
+Mako VPN Cloud technology makes partner services easily available to current and prospective customers.
+
+		
+	
+
+
+		(function(jQuery) {
+					})(jQuery);
+						
+	
+		
+			Mako Technology Partners
+Build your technology solutions on the Mako platform to deliver enhanced services securely and reliably at scale.
+
+		
+	
+
+
+
+
+Contact
+MAKO CMS LOGIN
+SUPPORT
+				
+	
+ 
+
+	
+
+		
+     
+
+    
+    	
+    		
+    			    
+    				
+    					
+    						
+    							
+	
+		
+			Network security.
+Always on.
+
+Mako Networks provides simple, secure networks for distributed enterprises. Our scalable, easy-to-manage, PCI-certified SASE solution never sleeps.
+Need a network that just works? Mako has over 25 years’ experience designing, deploying and maintaining high-security, high-performance business networks.
+
+BOOK A DEMOLEARN MORE
+
+		
+	
+
+	
+		
+			Explore Mako’s Newest Releases!
+Unlock new features for enhanced security and visibility.
+
+		
+	
+Get the Details
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568ca12d2 .ins-button:hover {background-color: #cccccc;}#ins-button-6874568ca12d2.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						    25 January 2025 Turning PCI Compliance Into a Competitive Advantage  by Ben Kubasak in Blog, News   Todd Vojta, Vice President of Sales at Mako Networks Compliance with the Payment Card Industry Data Security Standard (PCI DSS) [...]   Continue Reading    16 January 2025 Dual Distribution Delivers Full NZ Partner Coverage for Mako Networks  by Ben Kubasak in News   by Rob O'Neill Senior Journalist Reseller News The reseller bases of Mako's two distributors were distinct, head of A/NZ sales [...]   Continue Reading    13 January 2025 Navigating New PCI Standards and Expectations  by Mariana Lezama in Blog, News   By Simon Gamble, President, Mako Networks The payment security landscape has evolved to address modern threats. Cybercriminals are constantly looking [...]   Continue Reading    20 March 2025 TXB Partners with Mako Networks to Power Convenience Store Expansion  by Ben Kubasak in News   Mako Networks Provides Scalable, Secure Network Infrastructure to Drive Growth and Operational Excellence CHICAGO – March 20, 2025 – TXB [...]   Continue Reading    06 February 2025 Mako Networks Taps Petro Tech Leader Jon Kelly as CRO  by Mariana Lezama in Blog, News   Go-to-Market Expert to Grow Mako’s Market Leadership in Secure Networking Solutions for Distributed Enterprises in Petro & Beyond CHICAGO – [...]   Continue Reading    28 January 2025 Advancing QSR Innovation With Mako Networks  by Mariana Lezama in Blog, News   In talking with our customer’s IT Directors, we’ve made a list of priorities that have hit their plates this year. [...]   Continue Reading    25 January 2025 Turning PCI Compliance Into a Competitive Advantage  by Ben Kubasak in Blog, News   Todd Vojta, Vice President of Sales at Mako Networks Compliance with the Payment Card Industry Data Security Standard (PCI DSS) [...]   Continue Reading    16 January 2025 Dual Distribution Delivers Full NZ Partner Coverage for Mako Networks  by Ben Kubasak in News   by Rob O'Neill Senior Journalist Reseller News The reseller bases of Mako's two distributors were distinct, head of A/NZ sales [...]   Continue Reading    13 January 2025 Navigating New PCI Standards and Expectations  by Mariana Lezama in Blog, News   By Simon Gamble, President, Mako Networks The payment security landscape has evolved to address modern threats. Cybercriminals are constantly looking [...]   Continue Reading    20 March 2025 TXB Partners with Mako Networks to Power Convenience Store Expansion  by Ben Kubasak in News   Mako Networks Provides Scalable, Secure Network Infrastructure to Drive Growth and Operational Excellence CHICAGO – March 20, 2025 – TXB [...]   Continue Reading    06 February 2025 Mako Networks Taps Petro Tech Leader Jon Kelly as CRO  by Mariana Lezama in Blog, News   Go-to-Market Expert to Grow Mako’s Market Leadership in Secure Networking Solutions for Distributed Enterprises in Petro & Beyond CHICAGO – [...]   Continue Reading    28 January 2025 Advancing QSR Innovation With Mako Networks  by Mariana Lezama in Blog, News   In talking with our customer’s IT Directors, we’ve made a list of priorities that have hit their plates this year. [...]   Continue Reading    25 January 2025 Turning PCI Compliance Into a Competitive Advantage  by Ben Kubasak in Blog, News   Todd Vojta, Vice President of Sales at Mako Networks Compliance with the Payment Card Industry Data Security Standard (PCI DSS) [...]   Continue Reading    16 January 2025 Dual Distribution Delivers Full NZ Partner Coverage for Mako Networks  by Ben Kubasak in News   by Rob O'Neill Senior Journalist Reseller News The reseller bases of Mako's two distributors were distinct, head of A/NZ sales [...]   Continue Reading    13 January 2025 Navigating New PCI Standards and Expectations  by Mariana Lezama in Blog, News   By Simon Gamble, President, Mako Networks The payment security landscape has evolved to address modern threats. Cybercriminals are constantly looking [...]   Continue Reading  123456  
+	
+		
+			Mako Is Trusted Throughout the Petroleum Industry
+
+		
+	
+Learn About Mako for Petroleum
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568cb1b25 .ins-button:hover {background-color: #cccccc;}#ins-button-6874568cb1b25.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+	
+		
+			Mako’s Restaurant Industry Presence Continues To Grow
+
+		
+	
+Learn About Mako for Restaurants
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568cb51ce .ins-button:hover {background-color: #cccccc;}#ins-button-6874568cb51ce.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+	
+		
+			Mako Delivers Scalable Security for Retail Brands
+
+		
+	
+Learn About Mako for Retail
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568cb84a9 .ins-button:hover {background-color: #cccccc;}#ins-button-6874568cb84a9.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+	
+		
+			#tss-container-4244549186.tss-wrapper .tss-layout10 .item-content-wrapper,
+					#tss-container-4244549186.tss-wrapper .tss-isotope3 .item-content-wrapper,
+					#tss-container-4244549186.tss-wrapper .tss-isotope5 .item-content-wrapper,
+					#tss-container-4244549186.tss-wrapper .tss-carousel10 .item-content-wrapper{background: transparent;}“Mako knows our business and our system. They are not the largest provider of telephone services, but they are the best.”
+
+BRIAN FELTIS
+DIRECTOR OF IT / SENIOR ENGINEER
+SILVERTOWNE“Mako has responded to our specific requirements, developing custom features that address our needs.”
+
+ADAM COLE
+DIRECTOR
+EVOLVEODM“Mako's 24 / 7 support, cellular backup and multiple endpoint cloud management have been great advantages as we scale.”
+
+PEARSON CLARK
+IT SUPPORT, DIRECTOR OF DESIGN AND CONSTRUCTION
+YOUR PIE FRANCHISING“Having one single system for managing an entire global network is powerful. No other secure networking platform ticks all the boxes to deliver simplicity to customers and fine control to support.”
+
+ADAM COLE
+DIRECTOR
+EVOLVEODM“Mako’s technical support team has been top-notch, quickly responding to requests and resolving issues.”
+
+MARLON OSBORNE
+INFORMATION SYSTEMS DIRECTOR
+TWIN LIQUORS“Partnering with Mako as our preferred MNSP provider is one of the smartest moves we have made toward meeting the growing, complex demands for network and credit card security at our 1,800 locations.”
+
+DOUG LAWES
+MANAGER, POS TECH SUPPORT AND PAYMENT SOLUTIONS
+SINCLAIR OIL CORPORATION“Mako improves uptime and provides a best-in-class experience. We benefit from ease of installation and our customers tell us they’re happy with the solution's efficiency and reliability.”
+
+JAKE BOLLING
+CEO
+SKUPOS INC.“Mako knows our business and our system. They are not the largest provider of telephone services, but they are the best.”
+
+BRIAN FELTIS
+DIRECTOR OF IT / SENIOR ENGINEER
+SILVERTOWNE“Mako has responded to our specific requirements, developing custom features that address our needs.”
+
+ADAM COLE
+DIRECTOR
+EVOLVEODM
+
+		
+	
+
+	
+		
+			Mako Is Active in Targeted Technology Associations
+
+		
+	
+
+	
+		
+			
+Conexxus Diamond Sponsor
+Conexxus solves unique technology challenges of the convenience and fuel industry.
+
+		
+	
+
+	
+		
+			
+PEI Member
+PEI is the authority and source of information for the energy handling equipment industry.
+
+		
+	
+
+	
+		
+			
+RSPA Security Advisory Group
+RSPA is dedicated to all stakeholders of retail technology, POS, and beyond.
+
+		
+	
+
+	
+		
+			
+IFBTA Supplier Advisory Committee
+IFBTA promotes technology utilization within the food and beverage industry.
+
+		
+	
+
+	
+		
+			
+RTN Platinum Member
+RTN connects restaurant professionals and technology providers to address industry challenges.
+
+		
+	
+
+	
+		
+			Let us help you meet your goals.
+
+		
+	
+
+	
+		
+			NEW CUSTOMER
+Mako Networks and our authorized partners engage with customers through the full lifecycle of sales, design, deployment and maintenance. New customers looking to learn more or get started with the Mako System can contact our Sales team.
+
+		
+	
+GET STARTED
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568cbcfe9 .ins-button:hover {background-color: #cccccc;}#ins-button-6874568cbcfe9 .ins-button:hover {border-color: #cccccc;}#ins-button-6874568cbcfe9.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+	
+		
+			EXISTING CUSTOMER
+Existing Mako customers seeking assistance with the Mako System can review our Support resources and contact information.
+
+		
+	
+CONTACT SUPPORT
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568cbd4a1 .ins-button:hover {background-color: #cccccc;}#ins-button-6874568cbd4a1 .ins-button:hover {border-color: #cccccc;}#ins-button-6874568cbd4a1.ins-button-wrapper {margin-top: 30px;}</style>")
+					})(jQuery);
+						
+	
+		
+			Let’s do this together.
+
+		
+	
+
+	
+		
+			VPN Cloud
+Partner
+Enable customer networks to connect
+to partner networks in the Mako CMS.
+
+		
+	
+LEARN MORE
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568cbe2fc .ins-button {background-color: rgba(255,255,255,0.3);}#ins-button-6874568cbe2fc .ins-button:hover {background-color: rgba(0,0,0,0.15);}</style>")
+					})(jQuery);
+						
+	
+		
+			Reseller
+Partner
+Deploy the Mako System to
+customer sites around the world.
+
+		
+	
+LEARN MORE
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568cbe606 .ins-button {background-color: rgba(255,255,255,0.3);}#ins-button-6874568cbe606 .ins-button:hover {background-color: rgba(0,0,0,0.15);}</style>")
+					})(jQuery);
+						
+	
+		
+			Technology
+Partner
+Integrate third-party devices and
+applications with the Mako System.
+
+		
+	
+LEARN MORE
+		(function(jQuery) {jQuery("head").append("<style>#ins-button-6874568cbea3f .ins-button {background-color: rgba(255,255,255,0.3);}#ins-button-6874568cbea3f .ins-button:hover {background-color: rgba(0,0,0,0.15);}</style>")
+					})(jQuery);
+						
+    							
+    						
+    					
+    					
+			    				
+    
+    			    
+    			    		
+    	
+    
+
+
+
+	
+	
+	
+	
+		
+		
+	
+		
+			THE MAKO SYSTEM
+INDUSTRIES
+NEWS
+EVENTS
+PARTNERS
+COMPANY
+Contact
+Mako CMS Login
+Privacy Statement
+Terms of Use
+
+		
+	
+
+	
+		
+			
+		
+
+
+		
+				
+		
+									
+						twitter
+			
+						
+			
+					
+	
+
+	
+				
+		
+									
+						facebook
+			
+						
+			
+					
+	
+
+	
+				
+		
+									
+						linkedin
+			
+						
+			
+					
+	
+
+	
+
+
+		
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			© Copyright 2025 Mako Networks Ltd. All Rights Reserved.
+
+		
+	
+
+	
+		
+			TELEPHONE
+US +1 800 851 4691, opt. 2
+UK +44 2037 693370
+NZ +64 9 448 1340
+AU +61 2 8073 0546
+
+		
+	
+
+	
+		
+			
+
+		
+	
+.slick-dots li.slick-active button:before{
+    background-color: #ffd000;
+}
+
+.slick-next:before, .slick-prev:before {
+    display: none !important;
+}
+.button-light{
+    background-color: rgba(255,255,255,0.3);
+	border: 0;
+	border-radius: 12px;
+	padding: 16px 30px 14px 30px;
+	color: #ffffff;
+	font-family: "Overpass";
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 16px;
+	letter-spacing: 0.06em;
+	box-shadow: 30px 30px 60px rgba(0,0,0,0.10);
+}
+
+.blog-text-date.text-white {
+    color: #676769;
+}
+.padding-10px-lr {
+    padding-left: 0px;
+}
+.blog-text-content-wrapper {
+   
+    border-top: solid 5px #edc100;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.10);
+}
+.blog-text-footer {
+
+    border-color: #fff;
+    
+}
+.blog-text-date.pc-bg{
+   background-color: #ffffff;
+}
+.but-marg{
+    margin-left: 100px
+}
+.padlr{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.vc_custom_1651092359803 {
+    background-position: center top!important;
+}
+#mako-sc-cta .vc_column-inner, #mako-sc-cta img, 
+#mako-bt-cta .vc_column-inner, #mako-bt-cta img {border-radius: 15px !important;}
+
+@media only screen and (max-width: 800px) {
+  #mako-sc-cta .vc_column-inner, 
+  #mako-bt-cta .vc_column-inner {padding: 15px !important;}
+  .mobile_hide {display: none;}
+  .padlr{
+    padding-right: 0px;
+    padding-left: 0px;
+}  
+.marlr{
+    width: 90%;
+    margin: 5%;
+}}
+
+
+.home-color-accent {color: rgb(255, 209, 0);}
+#home-row-hero {min-width: 100%; min-height: 750px; aspect-ratio: 2560 / 1511; color: #fff; background: #000; background: linear-gradient(rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.05) 61%, rgb(42, 47, 49) 100%), url(/wp-content/uploads/Header-Image-scaled.jpg);}
+.home-hero-title {font-family: Overpass; font-weight: 800; font-size: 3rem; font-size: clamp(2rem, 2rem + 1.2vw, 3rem); line-height: 0.95; white-space: nowrap;}
+.home-hero-content p {margin: 0.5em 0; max-width: 45ch; color: #fff; font-size: 1rem; font-size: clamp(1rem, 0.9rem + 0.1vw, 1.1rem); line-height: 1.2;}
+.home-hero-btn {
+    display: inline-block;
+    margin: 2em 2em 0 0;
+	padding: 0.66em 1.66em;
+	color: #fff;
+	background: #444; background: rgba(54, 54, 54, 0.4);
+	border: 2px solid rgb(0, 182, 208); border-radius: 0.75em;
+	font-family: Overpass;
+	font-weight: 600;
+	font-size: 1rem;
+	font-size: clamp(0.9rem, 0.9rem + 0.1vw, 1.1rem);
+	line-height: 1.75;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: center;
+	white-space: nowrap;
+	min-height: 0px;
+	min-width: 0px;
+	cursor: pointer;
+}
+.home-hero-btn:hover {background: #000; background: rgba(0, 0, 0, 0.7);}
+#home-row-about p {color: #fff; font-size: 1rem; font-size: clamp(0.9rem, 0.9rem + 0.1vw, 1.1rem); line-height: 1.5;}
+#home-row-about h2, #home-row-customers h2, #home-row-partners-heading h2 {color: #fff; font-family: "Nixie One"; font-weight: 400; font-size: 2.8rem; font-size: clamp(2rem, 2rem + 0.1vw, 2.8rem); line-height: 1.2; letter-spacing: 0;}
+#home-row-customers h2, #home-row-partners-heading h2 {color: #414143; font-size: 2.5rem; /*font-size: clamp(2.5rem, 2.5rem + 0.05vw, 3rem);*/}
+#home-row-partners-heading h2 {text-align: center;}
+#home-row-newfeatures {background-size: 100vw auto;}
+#home-row-newfeatures h2 {font-size: 2rem; line-height: 1.2; max-width: 15ch;}
+#home-row-newfeatures p {color: #fff; font-size: 1.2rem; line-height: 1.2; max-width: 17ch;}
+.home-row-industry h2 {font-weight: 700; font-size: 1.4rem; /*font-size: clamp(1.2rem, 1.2rem + 0.1vw, 1.4rem);*/ line-height: 1.5; letter-spacing: 0; text-transform: uppercase; text-wrap: balance;}
+.home-row-industry .btn-medium {line-height: 1.5;}
+#home-row-associations img {margin-left: -0.5rem;}
+#home-row-testimonials p.testimonial {
+    max-width: 55ch;
+    font-size: 1.75rem;
+    font-size: clamp(1.5rem, 1.5rem + 0.1vw, 1.75rem);
+    line-height: 1.3;
+    text-wrap: balance;
+}
+#home-row-testimonials h3.testimonial {
+    font-size: 1rem;
+    font-size: clamp(0.9rem, 0.9rem + 0.1vw, 1.1rem) !important;
+    line-height: 1 !important;
+}
+@media screen and (max-width: 600px) {
+    .home-text-shadow {text-shadow: 2px 2px 4px #000;}
+    #home-row-newfeatures {background-image: none !important;}
+    #home-row-customers h2, #home-row-partners-heading h2 {padding-left: 1rem;}
+    #home-row-partners-heading h2 {text-align: left;}
+}
+
+.vc_item {display: grid; place-items: center;}.vc_custom_1646785148005{background-color: #ffffff !important;}.vc_custom_1651530699043{padding-right: 30px !important;padding-left: 30px !important;}
+	
+		
+			Get in touch.
+
+		
+	
+
+	
+		
+			
+
+		
+	
+.slick-dots li.slick-active button:before{
+    background-color: #ffd000;
+}
+
+.slick-next:before, .slick-prev:before {
+    display: none !important;
+}
+.button-light{
+    background-color: rgba(255,255,255,0.3);
+	border: 0;
+	border-radius: 12px;
+	padding: 16px 30px 14px 30px;
+	color: #ffffff;
+	font-family: "Overpass";
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 16px;
+	letter-spacing: 0.06em;
+	box-shadow: 30px 30px 60px rgba(0,0,0,0.10);
+}
+
+.blog-text-date.text-white {
+    color: #676769;
+}
+.padding-10px-lr {
+    padding-left: 0px;
+}
+.blog-text-content-wrapper {
+   
+    border-top: solid 5px #edc100;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.10);
+}
+.blog-text-footer {
+
+    border-color: #fff;
+    
+}
+.blog-text-date.pc-bg{
+   background-color: #ffffff;
+}
+.but-marg{
+    margin-left: 100px
+}
+.padlr{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.vc_custom_1651092359803 {
+    background-position: center top!important;
+}
+#mako-sc-cta .vc_column-inner, #mako-sc-cta img, 
+#mako-bt-cta .vc_column-inner, #mako-bt-cta img {border-radius: 15px !important;}
+
+@media only screen and (max-width: 800px) {
+  #mako-sc-cta .vc_column-inner, 
+  #mako-bt-cta .vc_column-inner {padding: 15px !important;}
+  .mobile_hide {display: none;}
+  .padlr{
+    padding-right: 0px;
+    padding-left: 0px;
+}  
+.marlr{
+    width: 90%;
+    margin: 5%;
+}}
+
+
+.home-color-accent {color: rgb(255, 209, 0);}
+#home-row-hero {min-width: 100%; min-height: 750px; aspect-ratio: 2560 / 1511; color: #fff; background: #000; background: linear-gradient(rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.05) 61%, rgb(42, 47, 49) 100%), url(/wp-content/uploads/Header-Image-scaled.jpg);}
+.home-hero-title {font-family: Overpass; font-weight: 800; font-size: 3rem; font-size: clamp(2rem, 2rem + 1.2vw, 3rem); line-height: 0.95; white-space: nowrap;}
+.home-hero-content p {margin: 0.5em 0; max-width: 45ch; color: #fff; font-size: 1rem; font-size: clamp(1rem, 0.9rem + 0.1vw, 1.1rem); line-height: 1.2;}
+.home-hero-btn {
+    display: inline-block;
+    margin: 2em 2em 0 0;
+	padding: 0.66em 1.66em;
+	color: #fff;
+	background: #444; background: rgba(54, 54, 54, 0.4);
+	border: 2px solid rgb(0, 182, 208); border-radius: 0.75em;
+	font-family: Overpass;
+	font-weight: 600;
+	font-size: 1rem;
+	font-size: clamp(0.9rem, 0.9rem + 0.1vw, 1.1rem);
+	line-height: 1.75;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: center;
+	white-space: nowrap;
+	min-height: 0px;
+	min-width: 0px;
+	cursor: pointer;
+}
+.home-hero-btn:hover {background: #000; background: rgba(0, 0, 0, 0.7);}
+#home-row-about p {color: #fff; font-size: 1rem; font-size: clamp(0.9rem, 0.9rem + 0.1vw, 1.1rem); line-height: 1.5;}
+#home-row-about h2, #home-row-customers h2, #home-row-partners-heading h2 {color: #fff; font-family: "Nixie One"; font-weight: 400; font-size: 2.8rem; font-size: clamp(2rem, 2rem + 0.1vw, 2.8rem); line-height: 1.2; letter-spacing: 0;}
+#home-row-customers h2, #home-row-partners-heading h2 {color: #414143; font-size: 2.5rem; /*font-size: clamp(2.5rem, 2.5rem + 0.05vw, 3rem);*/}
+#home-row-partners-heading h2 {text-align: center;}
+#home-row-newfeatures {background-size: 100vw auto;}
+#home-row-newfeatures h2 {font-size: 2rem; line-height: 1.2; max-width: 15ch;}
+#home-row-newfeatures p {color: #fff; font-size: 1.2rem; line-height: 1.2; max-width: 17ch;}
+.home-row-industry h2 {font-weight: 700; font-size: 1.4rem; /*font-size: clamp(1.2rem, 1.2rem + 0.1vw, 1.4rem);*/ line-height: 1.5; letter-spacing: 0; text-transform: uppercase; text-wrap: balance;}
+.home-row-industry .btn-medium {line-height: 1.5;}
+#home-row-associations img {margin-left: -0.5rem;}
+#home-row-testimonials p.testimonial {
+    max-width: 55ch;
+    font-size: 1.75rem;
+    font-size: clamp(1.5rem, 1.5rem + 0.1vw, 1.75rem);
+    line-height: 1.3;
+    text-wrap: balance;
+}
+#home-row-testimonials h3.testimonial {
+    font-size: 1rem;
+    font-size: clamp(0.9rem, 0.9rem + 0.1vw, 1.1rem) !important;
+    line-height: 1 !important;
+}
+@media screen and (max-width: 600px) {
+    .home-text-shadow {text-shadow: 2px 2px 4px #000;}
+    #home-row-newfeatures {background-image: none !important;}
+    #home-row-customers h2, #home-row-partners-heading h2 {padding-left: 1rem;}
+    #home-row-partners-heading h2 {text-align: left;}
+}
+
+.vc_item {display: grid; place-items: center;}.vc_custom_1646785148005{background-color: #ffffff !important;}.vc_custom_1651530699043{padding-right: 30px !important;padding-left: 30px !important;}
+	
+		
+			Get in touch.
+
+		
+	
+
+	
+		
+			
+
+		
+	
+
+	
+		
+			THE MAKO SYSTEM
+INDUSTRIES
+NEWS
+EVENTS
+PARTNERS
+COMPANY
+Contact
+Mako CMS Login
+Privacy Statement
+Terms of Use
+
+		
+	
+
+	
+		
+			
+		
+
+
+		
+				
+		
+									
+						twitter
+			
+						
+			
+					
+	
+
+	
+				
+		
+									
+						facebook
+			
+						
+			
+					
+	
+
+	
+				
+		
+									
+						linkedin
+			
+						
+			
+					
+	
+
+	
+
+
+		
+
+		
+	
+
+	
+		
+		
+			
+		
+	
+
+	
+		
+			© Copyright 2000 Mako Networks Ltd. All Rights Reserved.
+
+		
+	
+
+	
+		
+			TELEPHONE
+US +1 800 851 4691, opt. 2
+UK +44 2037 693370
+NZ +64 9 448 1340
+AU +61 2 8073 0546
+
+		
+	
+
+	
+		
+			
+
+		
+	
+		
+	
+
+
+
+		
+		
+	
+
+
+
+
+		
+	
+
+
+
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/innvoke-child\/*","\/wp-content\/themes\/innvoke\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+
+
+
+if ( jQuery( '.blog-element-main-archive').length ) {
+jQuery('.ensign-carousel-slider').slick({
+    
+     arrows: false,
+
+        dots: true,    
+        slidesToShow: 3,    
+	swipeToSlide: true,
+	
+		autoplay: true,	
+		speed: 1000,    responsive: [
+    {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: 2
+      }
+    },
+    {
+      breakpoint: 600,
+      settings: {
+        slidesToShow: 1
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 1
+      }
+    }
+   
+  ]
+
+  });
+}
+
+
+
+
+if ( jQuery( '.inv-portfolio-carousel-slider').length ) {
+jQuery('.inv-portfolio-carousel-slider').slick({
+    
+    arrows: false,
+    
+        
+    	
+	swipeToSlide: true,
+	
+		
+	    
+    responsive: [
+    {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: 2
+      }
+    },
+    {
+      breakpoint: 600,
+      settings: {
+        slidesToShow: 1
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 1
+      }
+    }
+   
+  ]
+
+  });
+}
+
+
+
+ _linkedin_partner_id = "4058956"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id);  (function(l) { if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])}; window.lintrk.q=[]} var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(window.lintrk);   <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=4058956&fmt=gif" /> 
+
+/* START GLOBAL COPYRIGHT YEAR */
+const gcyEl = document.getElementById('global-copyright-year');
+if (gcyEl) {gcyEl.innerHTML = new Date().getFullYear();}
+/* END GLOBAL COPYRIGHT YEAR */
+/* START COOKIE NOTICE JS */
+const cookieNotice = {
+	containerClass: 'cookienotice-container',
+	itemClass: 'cookienotice-item',
+	messageContent: 'This site uses cookies to provide the best experience. ' +
+				'By using this site you agree to the use of cookies ' +
+				'as explained in our <a href="/legal/privacy-statement/">privacy statement</a>.',
+	buttonContent: 'OK',
+	optInCookieAllowed: true,
+	optInCookieName: 'cookienoticeoptin',
+	optInCookieDays: 180,
+	optInCookieCreate: function () {
+		if (!this.optInCookieAllowed) {return false;}
+		const d = new Date();
+		d.setTime(d.getTime() + (this.optInCookieDays * 24 * 60 * 60 * 1000));
+		let expires = 'expires=' + d.toUTCString();
+		document.cookie = this.optInCookieName + '=1; ' + expires + '; path=/';
+		return true;
+	},
+	optInCookieRead: function () {
+		let name = this.optInCookieName + '=';
+		let ca = document.cookie.split(';');
+		for(let i = 0; i < ca.length; i++) {
+			let c = ca[i];
+			while (c.charAt(0) == ' ') {
+				c = c.substring(1);
+			}
+			if (c.indexOf(name) == 0) {
+				return c.substring(name.length, c.length);
+			}
+		}
+		return '';
+	},
+	optInCookieDelete: function () {
+		document.cookie = this.optInCookieName + '=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
+		return true;
+	},
+	show: function() {
+		if (!this.optInCookieAllowed || (this.resetAllowed && (window.location.search == this.resetQueryString))) {
+			this.optInCookieDelete();
+		}
+		if (this.optInCookieRead() != '') {
+			this.hide(false);
+		} else {
+			var d1 = document.createElement('div');
+			var d2 = document.createElement('div');
+			var p1 = document.createElement('p');
+			var p2 = document.createElement('p');
+			var b1 = document.createElement('input');
+			
+			jQuery(d1).addClass(this.containerClass);
+			jQuery(d2).addClass(this.itemClass);
+			jQuery(p1).html(this.messageContent);
+			jQuery(b1).attr({
+				"type" : "button",
+				"value" : this.buttonContent,
+				"onclick" : "cookieNotice.hide(true); return false;"
+			});
+			jQuery(p2).append(b1);
+			jQuery(d2).append(p1, p2);
+			jQuery(d1).append(d2);
+			jQuery('body').append(d1);
+		}	
+	},
+	hide: function(bOptIn) {
+		jQuery('.' + this.containerClass).remove();
+		if (bOptIn) {this.optInCookieCreate();}
+	},
+	resetAllowed: true,
+	resetQueryString: '?resetcookienotice=1'
+};
+
+jQuery(function(){
+	cookieNotice.show();
+});
+/* END COOKIE NOTICE JS */
+/* START MORE RELEASES JS */
+function moreReleasesToggle(sElTail) {
+	if ((sElTail !== 'cpe') && (sElTail !== 'switch')) {sElTail = 'cms';}
+	let sElHead = 'morereleases';
+	let sShow = 'SHOW OLDER ▼';
+	let sHide = 'HIDE OLDER ▲';
+	let elButton = document.getElementById(sElHead + '-button-' + sElTail);
+	let elContent = document.getElementById(sElHead + '-content-' + sElTail);
+	if (elButton.textContent === sShow) {
+		elButton.textContent = sHide;
+		elContent.style.display = 'block';
+	}
+	else {
+		elButton.textContent = sShow;
+		elContent.style.display = 'none';
+	}
+	return false;
+}
+
+if (document.getElementById('morereleases-button-cms')) {
+	document.getElementById('morereleases-button-cms').addEventListener('click', function() {moreReleasesToggle('cms')});
+}
+if (document.getElementById('morereleases-button-cpe')) {
+	document.getElementById('morereleases-button-cpe').addEventListener('click', function() {moreReleasesToggle('cpe')});
+}
+if (document.getElementById('morereleases-button-switch')) {
+	document.getElementById('morereleases-button-switch').addEventListener('click', function() {moreReleasesToggle('switch')});
+}
+/* END MORE RELEASE JS */
+
+
+
+
+
+ (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : '', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#146ff8', triggerColor : '#414143', triggerRadius : '50%', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'people', triggerSize : 'medium', triggerOffsetX : 40, triggerOffsetY : 4, mobile : { triggerSize : 'medium', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerOffsetX : 40, triggerOffsetY : 4, triggerRadius : '50%' } }); }; h.appendChild(s); })(); 
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/makonetworks.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var tc_csca_auto_ajax = {"ajax_url":"https:\/\/makonetworks.com\/wp-admin\/admin-ajax.php","nonce":"441d2b590f"};
+/* ]]> */
+
+
+
+
+
+/* <![CDATA[ */
+var groovyMenuHelper = {"ajaxurl":"https:\/\/makonetworks.com\/wp-admin\/admin-ajax.php"};
+var groovyMenuNonce = {"style":"9bf9a31a84"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var groovyMenuSettings = {"header":{"align":"left","style":1,"toolbar":"true"},"topLvlLinkAlign":"right","topLvlLinkCenterConsideringLogo":false,"forceLogoCentering":false,"gapBetweenLogoAndLinks":40,"overlap":true,"headerHeight":100,"headerHeightSticky":90,"canvasContainerWidthType":"canvas-wide-container-boxed","canvasWideContainerWidePadding":15,"canvasBoxedContainerBoxedWidth":1200,"canvasWideContainerBoxedWidth":1500,"stickyHeader":"fixed-sticky","stickyHeaderMobile":"slide-down","stickyOffset":"","stickyOffsetMobile":"","stickyToolbar":false,"showWpml":false,"showWpmlIconSizeDesktop":18,"showWpmlIconSizeMobile":18,"caret":true,"showDivider":false,"showDividerBetweenMenuLinks":false,"showDividerBetweenMenuLinksWide":false,"showMenuLinksDesc":false,"showTopLvlAndSubmenuIcons":false,"mobileDisableDesktop":false,"preloader":false,"menuZIndex":9999,"showSubmenu":"click","subClickOnlyCaretFirst":false,"subClickOnlyCaretSecond":false,"subLevelWidth":230,"hideDropdownBg":false,"iconMenuSubmenuBorderTopThickness":1,"iconMenuSubmenuBorderTopStyle":"dotted","iconMenuSubmenuBorderTopColor":"rgba(74, 74, 76, 1)","iconMenuFirstSubmenuActiveLinkColor":"rgba(255, 255, 255, 1)","sidebarMenuFirstSubmenuBgColor":"rgba(0, 0, 0, 1)","sidebarMenuNextSubmenuBgColor":"rgba(0, 0, 0, 1)","minimalisticMenuFirstSubmenuBgColor":"rgba(0, 0, 0, 1)","minimalisticMenuNextSubmenuBgColor":"rgba(0, 0, 0, 1)","dropdownAppearanceStyle":"fade-in-out","dropdownHoverStyle":"fadein-link-color","dropdownOverlay":true,"dropdownOverlayColor":"rgba(0, 0, 0, 0.5)","dropdownOverlayBlur":false,"dropdownOverlayBlurRadius":2,"submenuBorderStyle":"solid","submenuBorderThickness":1,"submenuBorderColor":"rgba(255, 255, 255, 1)","subLevelBorderTopStyle":"solid","subLevelBorderTopThickness":0,"subLevelBorderTopColor":"rgba(255, 209, 0, 0)","subLevelBorderTopShift":true,"subLevelTextColor":"rgba(65, 65, 67, 1)","subLevelTextColorHover":"rgba(255, 209, 0, 1)","subLevelTextActiveColor":"rgba(255, 209, 0, 1)","subLevelBackgroundColor":"rgba(255, 255, 255, 1)","subLevelBackgroundColorHover":"","subLevelLinksDescTextColor":"rgba(90, 90, 90, 1)","subLevelLinksDescTextColorHover":"rgba(130, 23, 141, 1)","subLevelLinksDescTextColorHoverSeparate":false,"subLevelLinksDescTextColorHoverHover":"rgba(130, 23, 141, 1)","subLevelLineHeightType":"inherit","subLevelLineHeightCustom":18,"subDropdownRadius":true,"subDropdownRadius1":25,"subDropdownRadius2":25,"subDropdownRadius4":25,"subDropdownRadius3":25,"dropdownMargin":0,"subDropdownMargin":10,"subDropdownAdjacentDelay":300,"subDropdownAutocloseDelay":500,"megamenuTitleAsLink":false,"megamenuTitleAsLinkAccent":false,"menuTitleColor":"rgba(255, 255, 255, 1)","megaMenuCanvasContainerWidthType":"mega-menu-canvas-wide-container-wide","megaMenuCanvasBoxedContainerBoxedWidth":1200,"megaMenuCanvasWideContainerBoxedWidth":1200,"megamenuBackgroundColorCustom":false,"megamenuBackgroundColor":"rgba(69, 164, 107, 0)","megamenuColumnPadding":true,"megaMenuDividerColor":"rgba(255, 255, 255, 0)","megaMenuShowLinksBottomBorder":false,"megaMenuLineHeightType":"inherit","megaMenuLineHeightCustom":18,"megaMenuLinksSidePadding":0,"megaMenuDropdownMargin":0,"searchForm":"fullscreen","searchFormFrom":"all","searchFormCustomWrapper":"fullscreen","searchFormCustomId":"fullscreen","searchFormCustomShowDefault":true,"searchFormFullscreenBackground":"rgba(0, 0, 0, 0.85)","searchFormIconSizeDesktop":17,"searchFormIconSizeMobile":17,"minimalisticMenuSearchIconPosition":"slideBottom","searchFormIconPositionMobile":"topbar","searchFormIconColor":"rgba(255, 255, 255, 1)","searchFormIconColorHover":"rgba(255, 255, 255, 1)","searchFormCloseIconColor":"rgba(255, 255, 255, 1)","searchFormSideBorderThickness":4,"searchFormSideBorderStyle":"solid","searchFormSideBorderColor":"rgba(69, 69, 69, 1)","searchFormInputFieldBackground":"rgba(255, 255, 255, 0)","searchFormInputFieldColor":"rgba(144, 144, 144, 1)","searchFormDropdownBackground":"rgba(255, 255, 255, 1)","searchFormDropdownBtnBackground":"rgba(57, 59, 63, 1)","searchFormDropdownBtnHover":"rgba(87, 171, 85, 1)","logoType":"img","logoResponsive":false,"logoMarginTop":0,"logoMarginRight":0,"logoMarginBottom":0,"logoMarginLeft":0,"logoHeight":60,"logoHeightSticky":60,"logoHeightMobile":45,"logoHeightMobileSticky":45,"logoShowAlt":false,"logoShowTitleAsAlt":false,"useAltLogoAtTop":false,"useAltLogoAtSticky":false,"useAltLogoAtMobile":false,"useAltLogoAtStickyMobile":false,"toolbarMenuEnable":true,"toolbarMenuId":"23","toolbarMenuPosition":"gm_main_menu_actions_button_last","toolbarMenuShowMobile":false,"toolbarMenuTopShowCaret":false,"toolbarMenuShowSubmenu":"hover","toolbarMenuAppearanceStyle":"animate-with-scaling","toolbarMenuHoverStyle":"default","toolbarMenuTopColor":"rgba(250, 250, 250, 1)","toolbarMenuTopBg":"rgba(255, 255, 255, 0)","toolbarMenuTopColorHover":"rgba(255, 209, 0, 1)","toolbarMenuTopBgHover":"rgba(255, 255, 255, 0)","toolbarMenuTopFontSize":14,"toolbarMenuSubColor":"rgba(100, 100, 100, 1)","toolbarMenuSubBg":"rgba(245, 245, 245, 1)","toolbarMenuSubColorHover":"rgba(32, 32, 32, 1)","toolbarMenuSubBgHover":"rgba(250, 250, 250, 1)","toolbarMenuSubFontSize":14,"toolbarMenuSubWidth":140,"toolbarMenuSubBorderThickness":1,"toolbarMenuSubBorderStyle":"solid","toolbarMenuSubBorderColor":"rgba(195, 195, 195, 1)","toolbarMenuSubTopBorderThickness":3,"toolbarMenuSubTopBorderStyle":"solid","toolbarMenuSubTopBorderColor":"rgba(147, 203, 82, 1)","toolbarMenuSubNavBorderThickness":1,"toolbarMenuSubNavBorderStyle":"dotted","toolbarMenuSubNavBorderColor":"rgba(220, 220, 220, 1)","toolbarMenuSubRadius":false,"toolbarMenuSubRadius1":0,"toolbarMenuSubRadius2":0,"toolbarMenuSubRadius4":0,"toolbarMenuSubRadius3":0,"secondSidebarMenuEnable":false,"secondSidebarMenuId":"none","secondSidebarMenuOpenType":"offcanvasSlideLeft","secondSidebarMenuOpenAnimationSpeed":330,"secondSidebarMenuTopWidth":380,"secondSidebarMenuDropdownWidth":380,"secondSidebarMenuMaxHeight":false,"secondSidebarMenuAppearanceStyle":"default","secondSidebarMenuHoverStyle":"default","secondSidebarMenuTopLvlMenuBgColor":"rgba(35, 35, 35, 0.95)","secondSidebarMenuTopLvlMenuBgBlur":false,"secondSidebarMenuTopLvlMenuBgBlurRadius":2,"secondSidebarMenuDropdownBgColor":"rgba(50, 50, 50, 0.95)","secondSidebarMenuTopLvlBackgroundImage":"","secondSidebarMenuTopLvlBackgroundSize":"full","secondSidebarMenuTopLvlBackgroundRepeat":"no-repeat","secondSidebarMenuTopLvlBackgroundAttachment":"scroll","secondSidebarMenuTopLvlBackgroundPosition":"center center","secondSidebarMenuTopLvlCoverBackground":false,"secondSidebarMenuTopColor":"rgba(165, 165, 165, 1)","secondSidebarMenuTopBg":"rgba(255, 255, 255, 0)","secondSidebarMenuTopColorHover":"rgba(255, 255, 255, 1)","secondSidebarMenuTopBgHover":"rgba(255, 255, 255, 0)","secondSidebarMenuTopFontSize":14,"secondSidebarMenuSubColor":"rgba(165, 165, 165, 1)","secondSidebarMenuSubBg":"rgba(255, 255, 255, 0)","secondSidebarMenuSubColorHover":"rgba(255, 255, 255, 1)","secondSidebarMenuSubBgHover":"rgba(255, 255, 255, 0)","secondSidebarMenuSubFontSize":14,"secondSidebarMenuTopBorderStyle":"dotted","secondSidebarMenuTopBorderThickness":1,"secondSidebarMenuTopBorderColor":"rgba(110, 110, 111, 1)","secondSidebarMenuSubBorderStyle":"dotted","secondSidebarMenuSubBorderThickness":1,"secondSidebarMenuSubBorderColor":"rgba(110, 110, 111, 1)","secondSidebarMenuCssHamburgerType":"hamburger--squeeze","secondSidebarMenuCssHamburgerHeight":5,"secondSidebarMenuSideIconPosition":"main_bar_right","secondSidebarMenuButtonShowText":false,"secondSidebarMenuButtonShowTextPosition":"left","secondSidebarMenuButtonShowTextSize":14,"secondSidebarMenuButtonShowTextColor":"rgba(35, 35, 35, 1)","secondSidebarMenuButtonShowTextColorSticky":"rgba(35, 35, 35, 1)","scrollbarEnable":true,"scrollbarEnableWheelSpeed":50,"scrollbarEnableMobile":true,"scrollEnableAnchors":true,"scrollHandleAllLinks":false,"scrollSpeedSettings":false,"scrollSpeedSettingsMain":400,"scrollSpeedSettingsMin":250,"scrollSpeedSettingsMax":2000,"scrollSpeedSettingsEasing":"easeInOutQuad","previewWidth":330,"previewHeight":230,"iconMenuTopWidth":70,"iconMenuIconSize":26,"iconMenuTopLevelIconActiveBgColor":"rgba(147, 203, 82, 1)","iconMenuTopLevelIconActiveColor":"rgba(255, 255, 255, 1)","iconMenuBorderTopThickness":1,"iconMenuBorderTopStyle":"solid","iconMenuBorderTopColor":"rgba(232, 232, 232, 1)","iconMenuTopLvlLinkBgColor":"rgba(32, 32, 34, 1)","iconMenuSideBorderThickness":1,"iconMenuSideBorderStyle":"solid","iconMenuSideBorderColor":"rgba(218, 218, 218, 1)","sidebarMenuSideBorderThickness":1,"sidebarMenuSideBorderStyle":"solid","sidebarMenuSideBorderColor":"rgba(218, 218, 218, 1)","sidebarMenuTopWidth":300,"sidebarExpandingMenuShowSideIcon":true,"sidebarExpandingMenuCssHamburgerType":"hamburger--squeeze","sidebarExpandingMenuCssHamburgerHeight":2,"sidebarExpandingMenuOpenOnHover":false,"sidebarExpandingMenuInitialWidth":80,"sidebarExpandingMenuExpandedWidth":300,"sidebarExpandingMenuSubmenuWidth":300,"sidebarExpandingMenuUseAnimation":true,"sidebarExpandingMenuAnimationDuration":300,"sidebarExpandingMenuIconSize":32,"sidebarExpandingMenuIconHideInitial":false,"sidebarExpandingMenuIconHideExpanded":false,"sidebarExpandingMenuSecondLogoEnable":false,"sidebarExpandingMenuSecondLogo":"logo_default","sidebarExpandingMenuBorderThickness":1,"sidebarExpandingMenuBorderStyle":"solid","sidebarExpandingMenuBorderColor":"rgba(218, 218, 218, 1)","sidebarExpandingMenuTopBorderThickness":1,"sidebarExpandingMenuTopBorderStyle":"dotted","sidebarExpandingMenuTopBorderColor":"rgba(110, 110, 111, 1)","sidebarExpandingMenuTopPadding":0,"minimalisticMenuOpenType":"offcanvasSlideRight","minimalisticMenuOpenAnimationSpeed":400,"minimalisticMenuTopWidth":300,"minimalisticMenuFullscreen":false,"minimalisticMenuFullscreenAsMegamenu":false,"minimalisticMenuFullscreenPosition":"center","minimalisticMenuFullscreenTopWidth":350,"minimalisticMenuFullscreenTopAlignment":"center","minimalisticMenuAlignment":"center","minimalisticMenuMaxHeight":true,"minimalisticMenuTopLvlMenuBgColor":"rgba(0, 0, 0, 1)","minimalisticMenuTopLvlMenuBgBlur":false,"minimalisticMenuTopLvlMenuBgBlurRadius":2,"minimalisticMenuTopLvlBackgroundImage":"","minimalisticMenuTopLvlBackgroundSize":"full","minimalisticMenuTopLvlBackgroundRepeat":"no-repeat","minimalisticMenuTopLvlBackgroundAttachment":"scroll","minimalisticMenuTopLvlBackgroundPosition":"center center","minimalisticMenuTopLvlCoverBackground":false,"minimalisticMenuSideIconPosition":"default","minimalisticCssHamburger":false,"minimalisticCssHamburgerType":"hamburger--squeeze","minimalisticCssHamburgerHeight":5,"minimalisticMenuButtonShowText":false,"minimalisticMenuButtonShowTextPosition":"left","minimalisticMenuButtonShowTextSize":14,"minimalisticMenuButtonShowTextColor":"rgba(35, 35, 35, 1)","minimalisticMenuButtonShowTextColorSticky":"rgba(35, 35, 35, 1)","minimalisticMenuShowCloseButton":false,"minimalisticMenuCloseButtonPosition":"flex-end","minimalisticMenuCloseButtonTop":10,"minimalisticMenuCloseButtonRight":53,"minimalisticMenuCloseButtonBottom":0,"minimalisticMenuCloseButtonLeft":53,"minimalisticMenuShowOnlyHamburger":false,"compiledCssRtl":"","presetKey":"52d21b31854eab34848099c2f53a55a7","version":"2.6.3","versionRtl":"","customCssClass":"","actionGmBeforeMainHeaderCustomId":0,"actionGmBeforeMainHeaderVisibility":"both","actionGmAfterMainHeaderCustomId":0,"actionGmAfterMainHeaderVisibility":"both","actionGmToolbarLeftFirstVisibility":"both","actionGmToolbarLeftLastVisibility":"both","actionGmToolbarRightFirstVisibility":"both","actionGmToolbarRightLastVisibility":"both","actionGmBeforeLogoVisibility":"both","actionGmAfterLogoVisibility":"both","actionGmMainMenuActionsButtonFirstVisibility":"both","actionGmMainMenuActionsButtonLastVisibility":"both","actionGmCustomMobileHamburgerVisibility":"mobile","actionGmBeforeMobileHamburgerVisibility":"mobile","actionGmAfterMobileHamburgerVisibility":"mobile","hoverStyle":"2","backgroundColor":"rgba(65, 65, 67, 1)","backgroundColorChangeOnSubmenuOpened":true,"backgroundColorChange":"","backgroundImage":"","backgroundSize":"full","backgroundRepeat":"no-repeat","backgroundAttachment":"scroll","backgroundPosition":"center center","coverBackground":false,"stickyBackgroundColor":"rgba(65, 65, 67, 1)","stickyBackgroundColorChangeOnSubmenuOpened":false,"stickyBackgroundColorChange":"rgba(255, 255, 255, 1)","stickyBgImage":"","stickyBgImageSize":"full","stickyBgRepeat":"no-repeat","stickyBgAttachment":"scroll","stickyBgPosition":"center center","stickyBgCover":false,"bottomBorderThickness":0,"bottomBorderColor":"rgba(0, 0, 0, 0)","bottomBorderThicknessSticky":0,"bottomBorderColorSticky":"rgba(0, 0, 0, 0)","topLevelHoverLineThickness":3,"topLevelTextColor":"rgba(255, 255, 255, 1)","topLevelTextColorHover":"rgba(255, 209, 0, 1)","topLevelTextColorHoverSeparate":false,"topLevelTextColorHoverHover":"rgba(130, 23, 141, 1)","topLevelTextBackgroundHover":"rgba(255, 255, 255, 0)","topLevelTextColorHover2":"rgba(255, 255, 255, 1)","topLevelTextColorChange":"rgba(255, 255, 255, 1)","topLevelTextColorChangeHover":"rgba(255, 209, 0, 1)","topLevelTextColorChangeHover2":"rgba(255, 255, 255, 1)","stickyTopLevelTextColor":"rgba(255, 255, 255, 1)","stickyTopLevelTextColorHover":"rgba(255, 209, 0, 1)","stickyTopLevelTextColorHoverSeparate":false,"stickyTopLevelTextColorHoverHover":"rgba(130, 23, 141, 1)","stickyTopLevelTextColorHover2":"rgba(255, 255, 255, 1)","stickyTopLevelTextColorChange":"rgba(90, 90, 90, 1)","stickyTopLevelTextColorChangeHover":"rgba(147, 203, 82, 1)","stickyTopLevelTextColorChangeHover2":"rgba(255, 255, 255, 1)","menuLinksDescTextColor":"rgba(90, 90, 90, 1)","menuLinksDescTextColorHover":"rgba(130, 23, 141, 1)","menuLinksDescTextColorHoverSeparate":false,"menuLinksDescTextColorHoverHover":"rgba(130, 23, 141, 1)","stickyMenuLinksDescTextColor":"rgba(90, 90, 90, 1)","stickyMenuLinksDescTextColorHover":"rgba(130, 23, 141, 1)","stickyMenuLinksDescTextColorHoverSeparate":false,"stickyMenuLinksDescTextColorHoverHover":"rgba(130, 23, 141, 1)","googleFont":"Overpass","itemsGutterSpace":16,"itemTextSize":14,"itemTextCase":"uppercase","itemTextWeight":"700","itemTextSubset":"none","itemLetterSpacing":0,"subLevelItemTextSize":15,"subLevelItemTextCase":"uppercase","subLevelItemTextWeight":"none","subLevelItemTextSubset":"none","subItemLetterSpacing":0,"megamenuTitleTextSize":16,"megamenuTitleTextCase":"uppercase","megamenuTitleTextWeight":"600","megamenuTitleTextSubset":"none","menuTitleLetterSpacing":0,"logoTxtFont":"none","logoTxtFontSize":20,"logoTxtWeight":"none","logoTxtSubset":"none","logoTxtColor":"rgba(32, 32, 34, 1)","logoTxtColorHover":"rgba(32, 32, 34, 1)","stickyLogoTxtFontSize":20,"stickyLogoTxtWeight":"none","stickyLogoTxtSubset":"none","stickyLogoTxtColor":"rgba(32, 32, 34, 1)","stickyLogoTxtColorHover":"rgba(32, 32, 34, 1)","toolbarMenuTextFont":"none","toolbarMenuTextCase":"none","toolbarMenuTxtWeight":"none","toolbarMenuTxtSubset":"none","toolbarMenuLetterSpacing":0,"secondSidebarMenuTextCase":"none","secondSidebarMenuTextWeight":"none","secondSidebarMenuTextSubset":"none","secondSidebarMenuLetterSpacing":0,"menuLinksDescTxtFontSize":10,"menuLinksDescTextCase":"none","menuLinksDescTextWeight":"none","menuLinksDescTextSubset":"none","menuLinksDescLetterSpacing":0,"shadow":true,"shadowType":"tiny","shadowColor":"rgba(0, 0, 0, 0.1)","shadowDropdown":false,"shadowDropdownType":"medium","shadowDropdownColor":"rgba(0, 0, 0, 0.1)","shadowSticky":true,"toolbarType":"menublock","toolbarCustomId":0,"hideToolbarOnMobile":true,"toolbarAlignCenter":true,"toolbarAlignCenterMobile":false,"toolbarTopThickness":0,"toolbarTopColor":"rgba(0, 0, 0, 1)","toolbarBottomThickness":0,"toolbarBottomColor":"rgba(0, 0, 0, 1)","toolbarBgColor":"rgba(255, 209, 0, 1)","toolbarAdditionalInfoColor":"rgba(255, 209, 0, 1)","wpmlDropdownBgColor":"rgba(255, 255, 255, 1)","toolbarAdditionalInfoFontSize":13,"hideToolbarIconTextOnMobile":false,"toolbarIconSize":16,"toolbarIconColor":"rgba(104, 104, 104, 1)","toolbarIconHoverColor":"rgba(165, 226, 94, 1)","toolbarIconSwitchBorder":false,"toolbarMarginTop":0,"toolbarMarginRight":15,"toolbarMarginBottom":0,"toolbarMarginLeft":15,"hamburgerIconSize":24,"hamburgerIconPadding":0,"hamburgerIconBgColor":"rgba(0, 0, 0, 0)","hamburgerIconColor":"rgba(104, 104, 104, 1)","hamburgerIconBorderWidth":0,"hamburgerIconBorderColor":"rgba(0, 0, 0, 0)","hamburgerCloseIconSize":24,"hamburgerCloseIconPadding":0,"hamburgerCloseIconBgColor":"rgba(0, 0, 0, 0)","hamburgerCloseIconColor":"rgba(104, 104, 104, 1)","hamburgerCloseIconBorderWidth":0,"hamburgerCloseIconBorderColor":"rgba(0, 0, 0, 0)","hamburgerIconStickySize":24,"hamburgerIconStickyPadding":0,"hamburgerIconStickyBgColor":"rgba(0, 0, 0, 0)","hamburgerIconStickyColor":"rgba(104, 104, 104, 1)","hamburgerIconStickyBorderWidth":0,"hamburgerIconStickyBorderColor":"rgba(0, 0, 0, 0)","hamburgerIconSizeMobile":24,"hamburgerIconPaddingMobile":0,"hamburgerIconBgColorMobile":"rgba(0, 0, 0, 0)","hamburgerIconColorMobile":"rgba(104, 104, 104, 1)","hamburgerIconMobileBorderWidth":0,"hamburgerIconMobileBorderColor":"rgba(0, 0, 0, 0)","hamburgerIconMobileStickySize":24,"hamburgerIconMobileStickyPadding":0,"hamburgerIconMobileStickyBgColor":"rgba(0, 0, 0, 0)","hamburgerIconMobileStickyColor":"rgba(104, 104, 104, 1)","hamburgerIconMobileStickyBorderWidth":0,"hamburgerIconMobileStickyBorderColor":"rgba(0, 0, 0, 0)","hamburgerIconMobileFloatSize":24,"hamburgerIconMobileFloatPadding":0,"hamburgerIconMobileFloatBgColor":"rgba(0, 0, 0, 0)","hamburgerIconMobileFloatColor":"rgba(104, 104, 104, 1)","hamburgerIconMobileFloatBorderWidth":0,"hamburgerIconMobileFloatBorderColor":"rgba(0, 0, 0, 0)","hamburgerIconMobileFullwidthSize":24,"hamburgerIconMobileFullwidthPadding":0,"hamburgerIconMobileFullwidthBgColor":"rgba(0, 0, 0, 0)","hamburgerIconMobileFullwidthColor":"rgba(104, 104, 104, 1)","hamburgerIconMobileFullwidthBorderWidth":0,"hamburgerIconMobileFullwidthBorderColor":"rgba(0, 0, 0, 0)","woocommerceCart":false,"minimalisticMenuWooIconPosition":"slideBottom","woocommerceIconPositionMobile":"slideBottom","woocommerceCartIconSizeDesktop":16,"woocommerceCartIconSizeMobile":17,"wooCartDisableDropdown":false,"wooCartCountShape":"drop","wooCartCountBgColor":"rgba(165, 226, 94, 1)","wooCartCountTextColor":"rgba(255, 255, 255, 1)","wooCartDropdownBgColor":"rgba(32, 32, 34, 1)","wooCartDropdownTextColor":"rgba(255, 255, 255, 1)","checkoutBtnFontSize":13,"checkoutBtnFontWeight":"700","checkoutBtnTextColor":"rgba(104, 104, 104, 1)","checkoutBtnTextColorHover":"rgba(104, 104, 104, 1)","checkoutBtnBgColor":"rgba(255, 255, 255, 1)","checkoutBtnBgColorHover":"rgba(255, 255, 255, 1)","checkoutBtnBorderStyle":"none","checkoutBtnBorderWidth":1,"checkoutBtnBorderColor":"","checkoutBtnBorderColorHover":"","viewCartBtnFontSize":13,"viewCartBtnFontWeight":"700","viewCartBtnTextColor":"rgba(255, 255, 255, 1)","viewCartBtnTextColorHover":"rgba(255, 255, 255, 1)","viewCartBtnBgColor":"rgba(165, 226, 94, 1)","viewCartBtnBgColorHover":"rgba(165, 226, 94, 1)","viewCartBtnBorderStyle":"none","viewCartBtnBorderWidth":1,"viewCartBtnBorderColor":"","viewCartBtnBorderColorHover":"","mobileNavMenu":"24","mobileSubmenuStyle":"default","mobileCustomHamburger":false,"mobileIndependentCssHamburger":false,"mobileIndependentCssHamburgerType":"hamburger--squeeze","mobileIndependentCssHamburgerFloat":false,"mobileIndependentCssHamburgerHeight":3,"mobileMenuButtonShowText":false,"mobileMenuButtonShowTextPosition":"left","mobileMenuButtonShowTextSize":14,"mobileMenuButtonShowTextColor":"rgba(35, 35, 35, 1)","mobileMenuButtonShowTextColorSticky":"rgba(35, 35, 35, 1)","mobileNavDrawerOpenType":"offcanvasSlideSlideRight","mobilePreventAutoclose":true,"mobileMenuShowCloseButton":true,"mobileMenuCloseButtonPosition":"flex-end","mobileMenuCloseButtonTop":12,"mobileMenuCloseButtonRight":0,"mobileMenuCloseButtonBottom":12,"mobileMenuCloseButtonLeft":0,"mobileMenuLinePosition":"default","mobileLogoPosition":"default","forceLogoCenteringMobile":false,"mobileLogoMarginTop":0,"mobileLogoMarginRight":0,"mobileLogoMarginBottom":0,"mobileLogoMarginLeft":0,"mobileSideIconPosition":"default","responsiveNavigationBackgroundColor":"rgba(65, 65, 67, 1)","mobileSliderTitleBackgroundColor":"rgba(65, 65, 67, 1)","responsiveNavigationTextColor":"rgba(255, 255, 255, 1)","responsiveNavigationHoverTextColor":"rgba(255, 209, 0, 1)","mobileItemsBorderThickness":1,"mobileItemsBorderStyle":"solid","mobileItemsBorderColor":"rgba(157, 157, 153, 1)","mobileToolbarIconColor":"rgba(197, 225, 239, 1)","mobileCaretCustomColor":false,"mobileCaretCustomColorTop":"rgba(90, 90, 90, 1)","mobileCaretCustomColorSub":"rgba(90, 90, 90, 1)","mobileCaretCustomColorCurrent":"rgba(204, 204, 204, 1)","mobileWidth":991,"mobileOffcanvasFullwidth":true,"mobileOffcanvasWidth":250,"mobileOffcanvasWidthDynamic":false,"mobileHeaderHeight":60,"mobileHeaderStickyHeight":60,"mobileMenuWrapperIndent":0,"mobileSliderTitleHeight":50,"mobileItemsPaddingY":9,"mobileItemTextSize":14,"mobileItemTextCase":"uppercase","mobileItemTextWeight":"none","mobileItemLetterSpacing":0,"mobileSubitemTextSize":14,"mobileSubitemTextCase":"uppercase","mobileSubitemTextWeight":"none","mobileSubitemLetterSpacing":0,"logoText":"Logo","logoUrl":"","logoUrlOpenType":"same","logoDefault":"2379","logoAlt":"","logoSticky":"2380","logoStickyAlt":"","logoMobile":"2377","logoMobileAlt":"","logoStickyMobile":"","logoStickyAltMobile":"","logoStyle4":"","socialSetNofollow":false,"socialSetBlank":false,"socialTwitter":false,"socialTwitterLink":"","socialTwitterText":"","socialTwitterIcon":"fa fa-twitter","socialFacebook":false,"socialFacebookLink":"","socialFacebookText":"","socialFacebookIcon":"fa fa-facebook","socialGoogle":false,"socialGoogleLink":"","socialGoogleText":"","socialGoogleIcon":"fa fa-google","socialVimeo":false,"socialVimeoLink":"","socialVimeoText":"","socialVimeoIcon":"fa fa-vimeo","socialDribbble":false,"socialDribbbleLink":"","socialDribbbleText":"","socialDribbbleIcon":"fa fa-dribbble","socialPinterest":false,"socialPinterestLink":"","socialPinterestText":"","socialPinterestIcon":"fa fa-pinterest","socialYoutube":false,"socialYoutubeLink":"","socialYoutubeText":"","socialYoutubeIcon":"fa fa-youtube","socialLinkedin":false,"socialLinkedinLink":"","socialLinkedinText":"","socialLinkedinIcon":"fa fa-linkedin","socialInstagram":false,"socialInstagramLink":"","socialInstagramText":"","socialInstagramIcon":"fa fa-instagram","socialFlickr":false,"socialFlickrLink":"","socialFlickrText":"","socialFlickrIcon":"fa fa-flickr","socialVk":false,"socialVkLink":"","socialVkText":"","socialVkIcon":"fa fa-vk","toolbarEmailIcon":"","toolbarEmail":"","toolbarEmailAsLink":false,"toolbarPhoneIcon":"","toolbarPhone":"","toolbarPhoneAsLink":false,"searchIcon":"gmi gmi-zoom-search","cartIcon":"gmi gmi-bag","menuIcon":"fa fa-bars","menuButtonText":"Menu","closeIcon":"fa fa-times","icons":"","postTypes":"page,post,product","wrapperTag":"header","adminWalkerPriority":true,"frontendInitAlt":true,"frontendInitImmediately":false,"displayGmWhenMenuBlockEdit":false,"enableCriticalInlineCss":false,"googleFontsLocal":false,"disableLocalFontAwesome":true,"disableLocalFontInternal":false,"allowUseFontPreloader":true,"disableMenuBlockForWooPayments":false,"allowImportOnlineLibrary":false,"removeBreakingPTag":true,"uninstallData":false,"defaultMasterPreset":"2369","defaultMasterMenu":"19","overrideForTax":false,"taxonomiesPreset":[],"preset":{"id":"2369","name":"First Preset"},"extra_navbar_classes":["gm-navbar--align-left","gm-navbar--style-1","gm-top-links-align-right","gm-navbar--toolbar-true","gm-navbar--has-shadow","gm-navbar--shadow-tiny","gm-navbar--has-shadow-sticky","gm-navbar--shadow-dropdown-medium","gm-dropdown-hover-style-fadein-link-color","gm-dropdown-appearance-fade-in-out","gm-dropdown-with-scrollbar"],"_preset_shortcodes_added":true,"_preset_toolbar_menu_added":23,"_preset_mb_action_added":true};
+ document.addEventListener("DOMContentLoaded", function () {  let groovyMenuWrapperNode = document.querySelector('.gm-navbar'); 
+	if (groovyMenuWrapperNode) {
+		if ( ! groovyMenuWrapperNode.classList.contains('gm-init-done')) {
+			var gm = new GroovyMenu(groovyMenuWrapperNode ,groovyMenuSettings); gm.init();
+		}
+	}
+ }); 
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+wpa_field_info = {"wpa_field_name":"zfqkmy8006","wpa_field_value":334504,"wpa_add_test":"no"}
+/* ]]> */
+
+
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"home","leadinPluginVersion":"11.3.6"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var sticky_anything_engage = {"element":"#features-menu","topspace":"110","minscreenwidth":"800","maxscreenwidth":"999999","zindex":"1","legacymode":"","dynamicmode":"","debugmode":"","pushup":"#end-features","adminbar":"1"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var wpcf7r = {"ajax_url":"https:\/\/makonetworks.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+
+
+
+
+
+
+/* <![CDATA[ */
+var wpcf7cf_global_settings = {"ajaxurl":"https:\/\/makonetworks.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var tss = {"ajaxurl":"https:\/\/makonetworks.com\/wp-admin\/admin-ajax.php","nonce":"99d81efc79","nonceId":"tss_nonce"};
+/* ]]> */
+
+
+
+
+
+										
+    
+
+
+										START TYPING AND PRESS ENTER TO SEARCH														
+													
+														
+														
+														
+															
+														
+													
+																			
+										
+									This site uses cookies to provide the best experience. By using this site you agree to the use of cookies as explained in our privacy statement.

@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langchain-ollama
+langchain-chroma
+chromadb
+playwright
+requests
+beautifulsoup4
+pydantic
