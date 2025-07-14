@@ -5,6 +5,7 @@ from langchain_ollama import OllamaEmbeddings, OllamaLLM
 from langchain_chroma import Chroma
 from fastapi import FastAPI
 from pydantic import BaseModel
+from fastapi.middleware.cors import CORSMiddleware
 
 def get_site_text_playwright(url):
     with sync_playwright() as p:
@@ -61,6 +62,14 @@ def rag_query(question, db, llm_model="llama3.2:1b"):
 app = FastAPI()
 class ChatRequest(BaseModel):
     question: str
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000","https://cxfabric-ai.vercel.app"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.post("/api/rag")
 def rag_api(req: ChatRequest):
