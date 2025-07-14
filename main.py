@@ -6,6 +6,7 @@ from langchain_chroma import Chroma
 from fastapi import FastAPI
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
+from nomic import embed
 
 def get_site_text_playwright(url):
     with sync_playwright() as p:
@@ -32,7 +33,10 @@ print(f"Site text length: {len(site_text)}")
 chroma_path = "./mako_chroma"
 if os.path.exists(chroma_path) and os.listdir(chroma_path):
 
-    embeddings = OllamaEmbeddings(model="nomic-embed-text")
+    embeddings = OllamaEmbeddings(
+        model="nomic-embed-text",
+        base_url="https://cxf-ollama-dev.cxfabric.io"
+    )
     db = Chroma(persist_directory=chroma_path, embedding_function=embeddings)
 
     splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
@@ -40,7 +44,10 @@ if os.path.exists(chroma_path) and os.listdir(chroma_path):
 else:
     splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
     chunks = splitter.split_text(site_text)
-    embeddings = OllamaEmbeddings(model="nomic-embed-text")
+    embeddings = OllamaEmbeddings(
+        model="nomic-embed-text",
+        base_url="https://cxf-ollama-dev.cxfabric.io"
+    )
     db = Chroma.from_texts(
         texts=chunks,
         embedding=embeddings,
