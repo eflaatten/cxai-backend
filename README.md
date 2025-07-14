@@ -50,18 +50,6 @@ The main script (`main.py`) performs the following steps:
 
 ---
 
-## How to Run Locally
-
-1. **Start Ollama (if running locally):**
-   ```bash
-   ollama serve
-   ```
-
-2. **Run the script:**
-   ```bash
-   python main.py
-   ```
-
 The script will:
 - Scrape makonetworks.com for content (using a headless browser)
 - Chunk, embed, and index content with ChromaDB
@@ -83,7 +71,6 @@ If your Ollama model is running remotely (e.g., in a Kubernetes cluster or on a 
        )
        return llm.invoke(prompt)
    ```
-2. (Optional) Add authentication headers if required.
 
 ---
 
@@ -94,22 +81,24 @@ If your Ollama model is running remotely (e.g., in a Kubernetes cluster or on a 
     uvicorn main:app --host 0.0.0.0 --port 8000
     ```
 
-2. In postman make a POST request to `http://0.0.0.0:8000/api/rag` with the body 
-    ```json
+2. In Postman, make a POST request to `http://0.0.0.0:8000/api/rag` with the following JSON body:
+```json
+{
+    "question": "What is Mako Networks?"
+}
+```
+
+---
+
+**You should receive a response similar to:**
+```json
+{
+"choices": [
         {
-            "question": "What is Mako Networks?"
-        }
-        ```
-        You should receive a response that looks like 
-        
-    ```json
-        {
-        "choices": [
-            {
-                "message": {
-                    "content": "Mako Networks is another name for the Mako System."
-                }
+            "message": {
+                "content": "Mako Networks is another name for the Mako System."
             }
-        ]
-    }
-    ```
+        }
+    ]
+}
+```
