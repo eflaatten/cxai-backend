@@ -53,7 +53,6 @@ The main script (`main.py`) performs the following steps:
 The script will:
 - Scrape makonetworks.com for content (using a headless browser)
 - Chunk, embed, and index content with ChromaDB
-- Run a sample query (edit `main.py` to change the question)
 
 ---
 
