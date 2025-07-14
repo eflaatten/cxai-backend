@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-langchain-community
-chromadb
-requests
-beautifulsoup4
